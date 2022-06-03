@@ -30,5 +30,5 @@ body{
     box-sizing: border-box;
     border-style: solid;
     border-color: rgb(191, 192, 194);
-    
+    transition: background 1.5s;    
 }
