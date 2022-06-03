@@ -1,0 +1,34 @@
+
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Yesteryear', cursive;
+    font-size: 4.5em;
+}
+
+#game-board{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.cell{
+    height: 33.3%;
+    width: 33.33%;
+    padding: 0;
+    margin: 0;
+    float: left;
+    background-color: rgb(72, 71, 70);
+    color: white;
+    text-align: center;
+    padding: 6%;
+    border: 2px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: rgb(191, 192, 194);
+    
+}
